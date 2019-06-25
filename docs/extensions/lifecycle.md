@@ -122,7 +122,7 @@ To become an extensions reviewer, please take the following steps:
 
 ### Selecting an Extension for Review
 
-1. Choose one of these [unassigned extension review requests](https://lab.civicrm.org/extensions/extensions-directory/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&label_name[]=Extension%20Review%20Request).
+1. Choose one of these [unassigned extension review requests](https://lab.civicrm.org/extensions/extension-review-requests/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None).
 
     Consider the following criteria while choosing:
 
